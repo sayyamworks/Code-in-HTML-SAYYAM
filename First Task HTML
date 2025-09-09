@@ -4,7 +4,7 @@ INSTRUCTIONS COVERED:
 - A webpage titled "My First Webpage" with a heading "Welcome!"
 ============================================= -->
 <!DOCTYPE html>
-<html>
+<html> 
   <head>
     <title>My First Webpage</title>
   </head>
